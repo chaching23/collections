@@ -1,0 +1,11 @@
+/Users/chachi/Desktop/C#/collections/bin/Debug/netcoreapp2.2/collections.deps.json
+/Users/chachi/Desktop/C#/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.json
+/Users/chachi/Desktop/C#/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.dev.json
+/Users/chachi/Desktop/C#/collections/bin/Debug/netcoreapp2.2/collections.dll
+/Users/chachi/Desktop/C#/collections/bin/Debug/netcoreapp2.2/collections.pdb
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.csprojAssemblyReference.cache
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.csproj.CoreCompileInputs.cache
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfoInputs.cache
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfo.cs
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.dll
+/Users/chachi/Desktop/C#/collections/obj/Debug/netcoreapp2.2/collections.pdb
